@@ -1,0 +1,18 @@
+[00:10:56] alt:V Server 13.48 (release)
+[00:10:56] Starting New alt:V server on 0.0.0.0:7788
+[00:10:56] Loading resource js
+[00:10:56] server js start
+[00:10:56] Loaded resource js
+[00:10:56] Required server permissions:
+[00:10:56] Optional server permissions:
+[00:10:56] Starting HTTP server on 0.0.0.0:7788
+[00:10:56] Main thread started (ThreadId: 91860)
+[00:10:56] Colshape thread started (ThreadId: 1456)
+[00:10:56] Sync thread started (ThreadId: 89032)
+[00:10:56] EntityStreamer thread started (ThreadId: 121204)
+[00:10:56] Console thread started (ThreadId: 115392)
+[00:10:56] Network thread started (ThreadId: 57928)
+[00:10:56] Server started
+[00:10:57] Stopping resource js
+[00:10:57] Stopped resource js
+[00:10:57] Server shutdown
